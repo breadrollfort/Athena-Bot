@@ -31,7 +31,7 @@ Our Athena Bot is a Discord bot, meaning that users of Bryn Mawr will be able to
 
 ## Presentation
 
-(https://www.canva.com/design/DAFz1GTDkns/07KT1SOrUqRiPfrU1bCIRw/editutm_content=DAFz1GTDkns&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+https://www.canva.com/design/DAFz1GTDkns/HqeHNi7AKUMWeWPvfRsJGw/view?utm_content=DAFz1GTDkns&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## Next Steps
 
