@@ -241,4 +241,4 @@ async def on_message(message):
         await message.channel.send(embed=embed)
         
 #our token don't touch this!
-client.run('MTE3MjcxNjI1MDQ1MTk0NzU0MA.GQ-LaK.KFyRK_ppaD-OBYCGdZcCaZBA3izku0YILdw7sM')
+#its a secret
