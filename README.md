@@ -35,7 +35,9 @@ Our Athena Bot is a Discord bot, meaning that users of Bryn Mawr will be able to
 
 ## Next Steps
 
-Provide updates for the bot and integrate the bot with the campus website to show possible new events on command.
+- Allowing the user to input feedback on the bot functionality
+- Integrate the bot with the campus website so that the bot can update new and time-sensitive information
+- Developing an event database, showing on-campus events to the students if commanded
 
 ## License
 
